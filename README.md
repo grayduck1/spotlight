@@ -1,5 +1,5 @@
 # Spotlight
-Spotlight for TwisterOS: OSX style app finder.
+Spotlight for Twister OS: OSX style app finder.
 
 ![Spotlight Screenshot](data/screenshot.png?raw=true)
 
